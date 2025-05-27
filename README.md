@@ -15,7 +15,7 @@ Web Development | Python Programming | Graphic Design | Branding
 
 
 **Tools:**
-<i class="fa-brands fa-react"></i>
+VsCode | HTML | CSS | JS | git | Github | Adobe studio | React 
 
 
 🔭 I'm currently working on a saas app for event ticketing, I am looking to 👯 collaborate on my ideas and I need 🤔 help with the backend of the app to get it going. The saas app is built with the partial help of v0.dev ai.
