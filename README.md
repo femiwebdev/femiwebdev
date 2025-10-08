@@ -15,6 +15,8 @@
   <img src="https://komarev.com/ghpvc/?username=solomonolagoroye&color=blue&style=flat-square" alt="Profile Views"/>
 </p>
 
+<li><strong>Reach me at:</strong> <a href="mailto:olaroye@gmail.com">pasegid@gmail.com</a></li>
+
 ---
 
 #### 🌟About Me  
