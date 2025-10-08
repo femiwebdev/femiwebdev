@@ -4,9 +4,11 @@
 
 <p align="center">
   <a href="https://techguide.ng">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineering+Student;Front-end+Developer;Open+Source+Advocate;Tech+for+Africa+Pilot&center=true&size=22&color=14D919&width=700">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineering+Student;Front-end+Developer;Open+Source+Advocate;Tech+for+Africa+Pilot&center=true&size=22&color=14d919&width=700&background=00000000&vCenter=true&pause=1500&borderRadius=15">
   </a>
 </p>
+
+
 <p align="center">
   <a href="https://medium.com/femiwebdev"><img src="https://img.shields.io/badge/Medium-D9DBDA??style=for-the-badge&logo=medium&logoColor=black&border_radius=20" alt="Medium"></a>
   <a href="https://instagram.com/femiweb.dev"><img src="https://img.shields.io/badge/Instagram-0C590C??style=for-the-badge&logo=instagram&logoColor=white&border_radius=20" alt="Instagram"></a>
@@ -75,8 +77,6 @@ I once spent hours fixing a bug... only to realize it was a missing semicolon
 #### 💬Connect With Me  
 
 <p align="center">
-  <a href="https://x.com/femiwebdev"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"></a>
-  <a href="https://github.com/femiwebdev"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://medium.com/@femiwebdev"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
-  <a href="https://instagram.com/femiweb.dev"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://x.com/femiwebdev"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white&border_radius=20" alt="Twitter"></a>
+  <a href="https://github.com/femiwebdev"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&border_radius=20" alt="GitHub"></a>
 </p>
